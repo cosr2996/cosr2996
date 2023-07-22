@@ -43,9 +43,7 @@
     </div>
 </div>
 
----
 
-### 📊 Mis estadísticas
 
 
 
