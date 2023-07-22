@@ -23,7 +23,7 @@
 - 📝 Especializado en React
 - 📕 estudiante de **ONE – Oracle Next Education**
 - 🌐 mi pagina web [cosr.online](https://cosr.online/)
----
+
 
 <div align="left">
     <h3>🛠️ Lenguajes y Herramienteas</h3>
@@ -42,3 +42,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="logo" width="40" height="40">
     </div>
 </div>
+
+---
+
+### 📊 Mis estadísticas
+
+
+
+
