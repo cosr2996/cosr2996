@@ -12,8 +12,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/omar-sanchez-react-front-end-web-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-  <a href="https://www.instagram.com/omar_sanchez.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
+  <a target="blank" href="https://www.linkedin.com/in/omar-sanchez-react-front-end-web-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+  <a target="blank" href="https://www.instagram.com/omar_sanchez.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
 </div>
 
 ---
