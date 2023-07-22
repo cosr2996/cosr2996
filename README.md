@@ -1,6 +1,6 @@
 <div id="about" align="center">
   <img align="center" width="200" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" alt="" />
-  <h1 align="center">👋 Hola soy Omar Sanchez</h1>
+  <h1 align="center">Hola 👋, soy Omar Sanchez</h1>
   <h3 align="center">
     Desarrollador junior especializado en React, he adquirido experiencia a
     través de diferentes proyectos que he desarrollado en múltiples cursos en
@@ -11,6 +11,11 @@
   </h3>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/omar-sanchez-react-front-end-web-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+  <a href="https://www.instagram.com/omar_sanchez.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
+</div>
+
 ---
 
 ### 🙋‍♂️ Sobre Mi:
@@ -18,7 +23,6 @@
 - 📝 Especializado en React
 - 📕 estudiante de **ONE – Oracle Next Education**
 - 🌐 mi pagina web [cosr.online](https://cosr.online/)
-- 
 ---
 
 <div align="left">
